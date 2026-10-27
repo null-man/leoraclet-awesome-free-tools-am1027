@@ -105,6 +105,9 @@ You can find the tools you need by browsing the appropriate category or by searc
 `Alternatives to: Dall-E, ...`
 
 - [Fooocus](https://github.com/lllyasviel/Fooocus) — Focus on prompting and generating. 🧠💻🪟🍎🐧
+- [PromptImage](https://promptimage.cloud) — Free AI image & video studio with prompt library (signup credits). 🌐
+- [TeslaWraps](https://teslawraps.design) — Free browser Tesla wrap designer; core editing + PNG export free, no account. 🌐
+- [GrokVideo Studio](https://grokvideogenerator.dev) — Independent text/image-to-video via Grok Imagine API (free trial credits). 🌐
 - [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) — Stable Diffusion web UI. 🧠💻🪟🍎🐧
 - [Stable Diffusion](https://stabledifffusion.com/) — High-quality text-to-image model that turns your ideas into vivid, realistic visuals. 🌐
 
